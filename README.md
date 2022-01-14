@@ -1,7 +1,13 @@
 # Posts
 
-My selcted public tech posts
+My selected public tech posts
 
+# Video presentations
+
+* [5 minutes introduction into Sparrow](https://conf.raku.org/talk/164)
+
+* [5 minutes introduction into Bird](https://conf.raku.org/talk/165)
+ 
 # Sparrow
 
 Sparrow - Multilanguage automation framework written on Raku. - https://github.com/melezhik/Sparrow6
