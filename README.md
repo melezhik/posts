@@ -11,7 +11,11 @@ Sparrow - Multilanguage automation framework written on Raku. - https://github.c
 * [Mixing Bash and Raku Using Sparrow](https://raku-advent.blog/2020/12/07/mixing-bash-and-raku-using-sparrow/)
 
 * [Validating K8s deployments Using Sparrow](https://dev.to/melezhik/validating-k8s-deployments-using-sparrow-5f3f)
-* 
+
+* [Chasing Rakudo Bugs With Sparrow](https://sparrowdo.wordpress.com/2020/12/18/chasing-rakudo-bugs-with-sparrow/)
+
+* [Install Raku Modules And External Dependencies Using Sparrow](https://sparrowdo.wordpress.com/2020/06/22/install-raku-modules-and-external-dependencies-using-sparrow/)
+ 
 * [Sparrow Plugins VS Ansible Plugins](https://sparrowdo.wordpress.com/2017/01/20/sparrow-plugins-vs-ansible-modules/)
 
 * [Simple Black Box Testing With Raku and Sparrow](https://dev.to/melezhik/simple-blackbox-testing-with-raku-and-sparrow6-g32)
@@ -66,6 +70,27 @@ Rakudist - Test Raku modules against different OS, Rakudo versions. https://gith
  
  # R3Tool
  
- r3tool - Rakudo Releases Readiness Toolkit
+ R3Tool - Rakudo Releases Readiness Toolkit. https://github.com/melezhik/r3tool 
  
- https://github.com/melezhik/r3tool I) RakuPlay - Run Raku code in different Rakudo environments J) https://mybf.io - platform for software reviews with social network aspect , see https://news.ycombinator.com/item?id=28870006 https://mybf.io/article/Principles 
+ * [R3Tool introduction](https://github.com/melezhik/r3tool)
+  
+ # RakuPlay 
+ 
+ RakuPlay - Run Raku code in different Rakudo environments.
+ 
+ * [RakuPlay Introduction](https://sparrowdo.wordpress.com/2020/11/19/rakuplay-introduction/)
+ 
+ # RICH
+ 
+ RICH - Rakudo Issues Conformation Helper.
+ 
+ * [Rakudo Issues Player](https://sparrowdo.wordpress.com/2020/12/03/rakudo-issues-player/)
+ 
+ 
+ # My Butterflies
+ 
+ https://github.com/melezhik/mybutterflies
+ 
+ * [#Mybfio - Platform For Software Reviews With Social Network Aspect](https://news.ycombinator.com/item?id=28870006)
+ 
+ * [#Mybfio Principles] https://mybf.io/article/Principles 
