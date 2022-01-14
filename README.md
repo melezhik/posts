@@ -7,6 +7,10 @@ My selected public tech posts
 * [5 minutes introduction into Sparrow](https://conf.raku.org/talk/164)
 
 * [5 minutes introduction into Bird](https://conf.raku.org/talk/165)
+
+Old
+
+* (Sparrow - reusable automation scenarios. Mail.RU Perl Conf. In Russian. 2016)[https://www.youtube.com/watch?v=Lm0E9nxnIOE ]
  
 # Sparrow
 
@@ -25,16 +29,22 @@ Sparrow - Multilanguage automation framework written on Raku. - https://github.c
 * [Sparrow Plugins VS Ansible Plugins](https://sparrowdo.wordpress.com/2017/01/20/sparrow-plugins-vs-ansible-modules/)
 
 * [Simple Black Box Testing With Raku and Sparrow](https://dev.to/melezhik/simple-blackbox-testing-with-raku-and-sparrow6-g32)
-  
+
+* [A Collection of AWS Related Plugins From SparrowHub](https://dev.to/melezhik/a-collection-of-aws-related-plugins-from-sparrowhub-5li)
+
+
 # Sparky
 
 Sparky - Sparky is flexible and minimalist continuous integration server written in Raku. - https://github.com/melezhik/sparky
 
 * [Sparky Job Api and Sparky clusters](https://github.com/melezhik/sparky#job-api)
 
-Old posts
+Old posts. Warning ⚠️ - API might have changed.
 
 * [Sparky on k8s cluster](https://sparrowdo.wordpress.com/2020/12/15/sparky-on-k8s-cluster/)
+
+* [Sparky - powerful pocket size task runner server in crontab style](https://dev.to/melezhik/sparky---powerful-pocket-size-task-runner-server-in-crontab-style-2ed5)
+
 
 # Tomtit 
 
