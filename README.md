@@ -54,6 +54,8 @@ Tomtit - Tomtit - Raku Task Runner. - https://github.com/melezhik/tomtit
 
 * [Oh my tomtit - alternative to oh my zshell](https://dev.to/melezhik/oh-my-tomtit-alternative-to-oh-my-zshell-written-on-raku-4oc5)
 
+* [Automation of Perl6 development workflow through the Tomtit task runner](https://dev.to/melezhik/automation-of-perl6-development-workflow-through-the-tomtit-task-runner-10jj)
+
 
 # Tomty
 
