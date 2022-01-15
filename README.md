@@ -2,7 +2,7 @@
 
 Selected list of tech posts and docs written by me, @melezhik 
 
-# My public blogs
+# My public blogs platforms
 
 * [dev.to/melezhik](https://dev.to/melezhik)
 
