@@ -21,7 +21,7 @@ Old
 
 * (Sparrow - reusable automation scenarios. Mail.RU Perl Conf. In Russian. 2016)[https://www.youtube.com/watch?v=Lm0E9nxnIOE ]
  
-# Sparrow
+# Sparrow 
 
 Sparrow - Multilanguage automation framework written on Raku. - https://github.com/melezhik/Sparrow6
 
@@ -61,7 +61,7 @@ Old posts. Warning ⚠️ - API might have changed.
 * [Sparky - powerful pocket size task runner server in crontab style](https://dev.to/melezhik/sparky---powerful-pocket-size-task-runner-server-in-crontab-style-2ed5)
 
 
-# Tomtit 
+# Tomtit
 
 Tomtit - Tomtit - Raku Task Runner. - https://github.com/melezhik/tomtit
 
@@ -75,7 +75,7 @@ Tomtit - Tomtit - Raku Task Runner. - https://github.com/melezhik/tomtit
 
 # Tomty
 
-Tomty - Tomty - Raku Test Framework. https://github.com/melezhik/tomty
+Tomty - Raku Test Framework. https://github.com/melezhik/tomty
 
 * [Write Devopsish Tests Using Tomty And Raku](https://dev.to/melezhik/write-devopsish-tests-using-tomty-and-raku-2fl2)
 
@@ -88,9 +88,9 @@ Tomty - Tomty - Raku Test Framework. https://github.com/melezhik/tomty
 
 * [Sparrowdo - Aws - Terraform integration, part2](https://sparrowdo.wordpress.com/2020/07/16/rakuops-issue-2/)
 
-# Bird
+# Bird 🐦 
 
-Bird - Bird - Alternative to Chef Inspec and Goss, written in Raku. https://github.com/melezhik/bird
+Bird - Alternative to Chef Inspec and Goss, written in Raku. https://github.com/melezhik/bird
 
 * [Bird raku DSL For Infrastructure Testing](https://dev.to/melezhik/bird-raku-dsl-for-infrastructure-testing-1hph)
 
