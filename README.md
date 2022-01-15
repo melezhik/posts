@@ -88,6 +88,10 @@ Tomty - Raku Test Framework. https://github.com/melezhik/tomty
 
 * [Sparrowdo - Aws - Terraform integration, part2](https://sparrowdo.wordpress.com/2020/07/16/rakuops-issue-2/)
 
+Old posts.
+
+* [Sparrowdo - Ubiquitous Asynchronous Task Runner ( with Nice Frontend )](https://dev.to/melezhik/sparrowdo-ubiquitous-asynchronous-task-runner-with-nice-frontend-5c1k)
+
 # Bird 🐦 
 
 Bird - Alternative to Chef Inspec and Goss, written in Raku. https://github.com/melezhik/bird
