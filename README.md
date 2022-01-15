@@ -127,9 +127,9 @@ Rakudist - Test Raku modules against different OS, Rakudo versions. https://gith
  
  # My Butterflies
  
- https://github.com/melezhik/mybutterflies
+ My Butterflies - Friendly Software Reviews System. https://github.com/melezhik/mybutterflies
  
-* [#Mybfio Principles](https://dev.to/melezhik/my-butterflies-independent-software-reviews-1f9h) 
+* [\#Mybfio Principles](https://dev.to/melezhik/my-butterflies-independent-software-reviews-1f9h) 
 
-* [#Mybfio - Platform For Software Reviews With Social Network Aspect](https://news.ycombinator.com/item?id=28870006)
+* [\#Mybfio - Platform For Software Reviews With Social Network Aspect](https://news.ycombinator.com/item?id=28870006)
  
