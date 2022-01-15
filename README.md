@@ -19,7 +19,7 @@ Selected list of tech posts and docs written by me, @melezhik
 
 Old
 
-* (Sparrow - reusable automation scenarios. Mail.RU Perl Conf. In Russian. 2016)[https://www.youtube.com/watch?v=Lm0E9nxnIOE ]
+* [Sparrow - reusable automation scenarios. Mail.RU Perl Conf. In Russian. 2016](https://www.youtube.com/watch?v=Lm0E9nxnIOE)
  
 # Sparrow 
 
