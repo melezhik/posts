@@ -2,6 +2,15 @@
 
 My selected public tech posts
 
+# My public blogs
+
+* [dev.to/mlelezhik](https://dev.to/melezhik)
+
+* https://sparrowdo.wordpress.com
+
+* [http://reddit.com/u/melezhik](http://reddit.com/u/melezhik)
+
+
 # Video presentations
 
 * [5 minutes introduction into Sparrow](https://conf.raku.org/talk/164)
@@ -42,6 +51,8 @@ Sparky - Sparky is flexible and minimalist continuous integration server written
 Old posts. Warning ⚠️ - API might have changed.
 
 * [Sparky on k8s cluster](https://sparrowdo.wordpress.com/2020/12/15/sparky-on-k8s-cluster/)
+
+* [Backing Your Own CI in 5 minutes by using Sparrowdo, Sparky and Docker](https://dev.to/melezhik/backing-your-own-ci-in-5-minutes-by-using-sparrowdo-sparky-and-docker-3ap)
 
 * [Sparky - powerful pocket size task runner server in crontab style](https://dev.to/melezhik/sparky---powerful-pocket-size-task-runner-server-in-crontab-style-2ed5)
 
