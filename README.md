@@ -4,7 +4,7 @@ My selected public tech posts
 
 # My public blogs
 
-* [dev.to/mlelezhik](https://dev.to/melezhik)
+* [dev.to/melezhik](https://dev.to/melezhik)
 
 * https://sparrowdo.wordpress.com
 
@@ -34,7 +34,11 @@ Sparrow - Multilanguage automation framework written on Raku. - https://github.c
 * [Chasing Rakudo Bugs With Sparrow](https://sparrowdo.wordpress.com/2020/12/18/chasing-rakudo-bugs-with-sparrow/)
 
 * [Install Raku Modules And External Dependencies Using Sparrow](https://sparrowdo.wordpress.com/2020/06/22/install-raku-modules-and-external-dependencies-using-sparrow/)
- 
+
+* [Multi-platform testing of Raku modules using Sparrow6](https://dev.to/melezhik/multi-platform-testing-of-raku-modules-using-sparrow6-nn0_
+
+* [Permissions calculator for Azure devops security model](https://dev.to/melezhik/permissions-calculator-for-azure-devops-security-model-pll) 
+
 * [Sparrow Plugins VS Ansible Plugins](https://sparrowdo.wordpress.com/2017/01/20/sparrow-plugins-vs-ansible-modules/)
 
 * [Simple Black Box Testing With Raku and Sparrow](https://dev.to/melezhik/simple-blackbox-testing-with-raku-and-sparrow6-g32)
@@ -67,6 +71,7 @@ Tomtit - Tomtit - Raku Task Runner. - https://github.com/melezhik/tomtit
 
 * [Automation of Perl6 development workflow through the Tomtit task runner](https://dev.to/melezhik/automation-of-perl6-development-workflow-through-the-tomtit-task-runner-10jj)
 
+* [Development workflow management using Tomtit](https://dev.to/melezhik/development-workflow-management-using-tomtit-44m4)
 
 # Tomty
 
