@@ -1,6 +1,6 @@
 # Posts
 
-My selected public tech posts
+Selected tech posts writtne by me, @melezhik 
 
 # My public blogs
 
