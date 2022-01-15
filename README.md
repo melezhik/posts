@@ -128,8 +128,8 @@ Rakudist - Test Raku modules against different OS, Rakudo versions. https://gith
  # My Butterflies
  
  My Butterflies - Friendly Software Reviews System. https://github.com/melezhik/mybutterflies
- 
-* [\#Mybfio Principles](https://dev.to/melezhik/my-butterflies-independent-software-reviews-1f9h) 
+  
+* [\#Mybfio - Platform For Software Reviews With Social Network Aspect](https://dev.to/melezhik/mybfio-platform-for-software-reviews-with-social-network-aspect-2eom) 
 
-* [\#Mybfio - Platform For Software Reviews With Social Network Aspect](https://news.ycombinator.com/item?id=28870006)
+* [\#Mybfio - Platform For Software Reviews With Social Network Aspect. HN Discussion](https://news.ycombinator.com/item?id=28870006)
  
