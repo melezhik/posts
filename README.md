@@ -35,7 +35,7 @@ Sparrow - Multilanguage automation framework written on Raku. - https://github.c
 
 * [Install Raku Modules And External Dependencies Using Sparrow](https://sparrowdo.wordpress.com/2020/06/22/install-raku-modules-and-external-dependencies-using-sparrow/)
 
-* [Multi-platform testing of Raku modules using Sparrow6](https://dev.to/melezhik/multi-platform-testing-of-raku-modules-using-sparrow6-nn0_)
+* [Multi-platform testing of Raku modules using Sparrow6](https://dev.to/melezhik/multi-platform-testing-of-raku-modules-using-sparrow6-nn0)
 
 * [Permissions calculator for Azure devops security model](https://dev.to/melezhik/permissions-calculator-for-azure-devops-security-model-pll) 
 
